@@ -28,7 +28,7 @@ public boolean isBillAdded;
         cheesePrice=80;
         paperBagPrice=20;
         totalPrice=basePrice;
-        bill=bill+"Base Price Of The Pizza: "+basePrice+"\n";
+        bill="Base Price Of The Pizza: "+basePrice+"\n";
     }
 
     public int getPrice(){
