@@ -38,7 +38,7 @@ public boolean isBillAdded;
     public void addExtraCheese(){
         // your code goes here
         if(isCheeseAdded==false){ //cheese is not added then only enter this if statement
-            isCheeseAdded=true //mark true;
+            isCheeseAdded=true; //mark true;
 totalPrice=toppingPrice+cheesePrice;
         }
     }
